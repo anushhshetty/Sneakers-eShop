@@ -1,2 +1,2 @@
 # Sneakers eShop
- Sneakers online store
+Sneakers online store utilizing html, css and javascript 
